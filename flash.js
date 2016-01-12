@@ -1,0 +1,50 @@
+$(function() {
+$("#flash1").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash2").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash3").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash4").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash5").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash6").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash7").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash8").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash9").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash10").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash11").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash12").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash13").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash14").click(function(){
+  $(this).next().slideToggle();
+});
+$("#flash15").click(function(){
+  $(this).next().slideToggle();
+});
+
+
+
+})
